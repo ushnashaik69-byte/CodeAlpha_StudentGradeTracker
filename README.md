@@ -1,7 +1,4 @@
 # CodeAlpha_StudentGradeTracker
-CodeAlpha_StudentGradeTracker
-# CodeAlpha Student Grade Tracker
-
 ## Project Overview
 The Student Grade Tracker is a Java-based project developed as part of my CodeAlpha Internship – Task 1.
 
